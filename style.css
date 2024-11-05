@@ -1,0 +1,39 @@
+.homepagina {
+    height: 50em;
+    background-color: rgb(152, 215, 152);
+    background-image: url("nestpaal.png");
+    background-repeat: no-repeat;
+    background-size: 23.5em;
+}
+
+.infopagina {
+    background-image: linear-gradient(rgb(153, 211, 153), rgb(67, 123, 67));
+    height: 42em;
+}
+
+.dierenpagina {
+    background-image: linear-gradient(rgb(197, 229, 175), rgb(93, 128, 93));
+    height: 42em; 
+}
+
+.waarompagina {
+    background-image: linear-gradient(rgb(115, 134, 103), rgb(86, 159, 86));
+    height: 42em; 
+}
+
+.homepaginah1 {
+    margin-top: 6.5em;
+    margin-left: 4.2em;
+}
+
+.infopaginah1 {
+    text-align: center;
+}
+
+.dierenpaginah1 {
+    text-align: center;
+}
+
+.waarompaginah1 {
+    text-align: center;
+}
